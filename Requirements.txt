@@ -1,7 +1,0 @@
-streamlit
-catboost==1.2.10
-pandas
-numpy
-scikit-learn
-matplotlib
-seaborn
